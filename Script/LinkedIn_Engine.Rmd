@@ -1,0 +1,19 @@
+---
+title: "Recommender Systems"
+author: "Coffy Andrews-Guo"
+output: html_notebook
+  
+---
+
+<body>
+  <h1>LinkedIn Learning Recommender Engine</h1>
+  <p>LinkedInlogo Insert</p>
+  <img scr = "C:\Users\andre\OneDrive\Documents\GitHub\D607_LinkedIn\Data\LinkedInlogo.png" alt = "LinkedIn"/>
+  <p>Linkedln Learning platform is a large-scale content recommendation engine developed by the organization's AI team. The learning platform currently serves over 690 LinkedIn members and customers based on a hyper-personalized model to help learners access courses based on their personal and professional developmental interests. LinkedIn’s expansion to online learning platforms began with purchasing Lynda.com educational database. In acquiring Lynda’s database, the AI team developed core features that corporations can easily learn, network, and recruit skilled employees.</p> 
+  <h3>Scenario Design</h3>
+  <p>1.	Target Users: LinkedIn Learning targets individual learners and enterprise employees.  The online learning platform is designed to engage and empower learners in supporting a strategic development path. See the image below showing a sample LinkedIn Learning user homepage.
+  
+  2.	Key Goals: LinkedIn Learning key goal is to provide an online platform that is available and accessible from anywhere and whenever the users need it. 
+  
+  3.	Accomplishing these goals (minimizing churn): In my view, the LinkedIn Learning recommender engine introduced a user-friendly online platform to assist individual learning goals and provided a skills development platform to enterprises existing and onboarding employees. In the area of improvements, I align with Shorgov’s recommendation that LikedIn Learning's continual expansion will require the incorporation of higher quality accreditations and certifications from universities or institutions.</p>  
+
