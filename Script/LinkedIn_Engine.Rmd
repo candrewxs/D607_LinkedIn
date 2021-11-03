@@ -53,4 +53,7 @@ A closer look at the AI behind course recommendations on LinkedIn Learning, Part
 
 Atanas Shorgov. (2020, March 15). How LinkedIn Learning Reached 17 Million Users in 4 Years. Medium; Better Marketing. https://bettermarketing.pub/how-linkedin-learning-reached-17-million-users-in-4-years-59657ac55721</p>
 
+<br>
+<p>[Github](https://github.com/candrewxs/D607_LinkedIn/blob/main/Script/LinkedIn_Engine.Rmd)</p>
+<p>[RPubs](https://rpubs.com/blesned/LinkedIn)
 </body>
